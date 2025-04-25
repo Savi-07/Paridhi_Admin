@@ -1,0 +1,70 @@
+{
+  "admins": [
+    {
+      "name": "Admin1",
+      "email": "admin1@email.com",
+      "password": "123456",
+      "jwt": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbjFAZW1haWwuY29tIiwiaWF0IjoxNzQzOTYxODIyLCJleHAiOjE3NDQwNDgyMjJ9.rA3ZHQawLvrws90Rh2XftdKF68uSmgjllPYRjtSsp70Su1lSnmXyWJvXW7pJWUnwp9SFNVRGmeV8y55KjHorCg"
+    },
+    {
+      "name": "Admin2",
+      "email": "admin2@email.com",
+      "password": "123456",
+      "jwt": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbjJAZW1haWwuY29tIiwiaWF0IjoxNzQzOTYxODIyLCJleHAiOjE3NDQwNDgyMjJ9.aldaCG1eaRmnJmaiowwZ8ibv2sJcubh9gRno5kmD--F0YptcTa40Ta-_k6dM-RhUQu2BSYa9U_n2aCNAwpQcsw"
+    },
+    {
+      "name": "Admin3",
+      "email": "admin3@email.com",
+      "password": "123456",
+      "jwt": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbjNAZW1haWwuY29tIiwiaWF0IjoxNzQzOTYxODIzLCJleHAiOjE3NDQwNDgyMjN9.JDostwbf9OjnIqJl70zQ9bGSlGynuMsOc3ZAdFrvS8-U2cQHxkcp-Yl0QXqR-UC7LrbMvlN_IfZzp-S5ytoiLA"
+    },
+    {
+      "name": "Admin4",
+      "email": "admin4@email.com",
+      "password": "123456",
+      "jwt": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbjRAZW1haWwuY29tIiwiaWF0IjoxNzQzOTYxODIzLCJleHAiOjE3NDQwNDgyMjN9.5_OuQZzlGa8N8d5kkRJ8kWj-HMaQZffOCRlzidY9LTGIoDtoZwGpP28btmfEW7IPuAuQDK2rleuUjxF5aESMrw"
+    },
+    {
+      "name": "Admin5",
+      "email": "admin5@email.com",
+      "password": "123456",
+      "jwt": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbjVAZW1haWwuY29tIiwiaWF0IjoxNzQzOTYxODIzLCJleHAiOjE3NDQwNDgyMjN9.PuX9C3Y9nPoGhc-uJ7oeC24lgQq2YuSQhF3H1kzJ6Owte5UShtwyjqgF6FWssAxhbaxICODd3k17o9JC0yRtBA"
+    },
+    {
+      "name": "Admin6",
+      "email": "admin6@email.com",
+      "password": "123456",
+      "jwt": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbjZAZW1haWwuY29tIiwiaWF0IjoxNzQzOTYxODIzLCJleHAiOjE3NDQwNDgyMjN9.Nya_azLsGauWczyYrarRSw8wY9UX1UZx7I7gY3g1uT_9zubtNtFKBW1vfUYL3TPfpQq7JWjIcbcORnEnfNxaKQ"
+    },
+    {
+      "name": "Admin7",
+      "email": "admin7@email.com",
+      "password": "123456",
+      "jwt": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbjdAZW1haWwuY29tIiwiaWF0IjoxNzQzOTYxODIzLCJleHAiOjE3NDQwNDgyMjN9.JEa-8GyX7Ht2HXNPaRqZ5OWeRjLIWrGrvO8pMTO9ox49Xnl8k8izZaViCvt1O0OfLy3qmEm58Bdd-L1SQytnTQ"
+    },
+    {
+      "name": "Admin8",
+      "email": "admin8@email.com",
+      "password": "123456",
+      "jwt": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbjhAZW1haWwuY29tIiwiaWF0IjoxNzQzOTYxODIzLCJleHAiOjE3NDQwNDgyMjN9.z9R_56ZeJNPWycFLHNvE3F-Tgivn-sitvVbAPuuMNLAcvVBc0Z3UFjKntT7cWJeVhc5vPzZPtaSrsZ1aam_hrg"
+    },
+    {
+      "name": "Admin9",
+      "email": "admin9@email.com",
+      "password": "123456",
+      "jwt": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbjlAZW1haWwuY29tIiwiaWF0IjoxNzQzOTYxODIzLCJleHAiOjE3NDQwNDgyMjN9.wdlVbJfu1x8mELKDBXw4dKQkV4v7UItBwTFHG2piIacYHO7qCdYi-TbcjUQAG1wIMfpHIj8UiR7EWup4jwp1Iw"
+    },
+    {
+      "name": "Admin10",
+      "email": "admin10@email.com",
+      "password": "123456",
+      "jwt": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbjEwQGVtYWlsLmNvbSIsImlhdCI6MTc0Mzk2MTgyNCwiZXhwIjoxNzQ0MDQ4MjI0fQ.XzUg7nbZ1K3WbXSYT7fo-Tul8L8SoDot7YW7iPDTLfN3YzMtzsIPEJvFoBv12l2y2uGbzdRBZF_f7AqEBEZ4iQ"
+    }
+  ],
+  "superadmin": {
+    "name": "Super Admin",
+    "email": "superadmin@paridhi2025.com",
+    "password": "Paridhi@2025",
+    "jwt": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJzdXBlcmFkbWluQHBhcmlkaGkyMDI1LmNvbSIsImlhdCI6MTc0Mzk2MTgyMSwiZXhwIjoxNzQ0MDQ4MjIxfQ.7EAn2ilG6Q119wWNaE4wNYLVb-U0ITRBGa-o-JOpeZb3ooNYDxCv9-IooZAGlv4UmjodRI6Bx0It1jAdZUmr3g"
+  }
+}

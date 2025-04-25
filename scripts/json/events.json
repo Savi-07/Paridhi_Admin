@@ -1,0 +1,463 @@
+{
+  "events": [
+    {
+      "domain": "CODING",
+      "name": "CodeZen",
+      "eventType": "MAIN",
+      "eventDate": "2025-04-10T10:00:00",
+      "description": "Competitive programming contest exclusively for 1st year students",
+      "venue": "CSE Lab 1",
+      "coordinatorDetails": [
+        "Aditya Kumar - 9823456789", 
+        "Priya Sharma - 9812365478"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1aEv5jm2dLrL16mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 2,
+      "maxPlayers": 3,
+      "registrationFee": 100.00,
+      "prizePool": 5000.00
+    },
+    {
+      "domain": "CODING",
+      "name": "Bug Blitz",
+      "eventType": "ON_SPOT",
+      "eventDate": "2025-04-11T11:00:00",
+      "description": "Debug and fix code challenges within a time limit",
+      "venue": "CSE Lab 2",
+      "coordinatorDetails": [
+        "Rohan Verma - 9845617895", 
+        "Sneha Patel - 9567123489"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1bFw6kl3qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 1,
+      "maxPlayers": 2,
+      "registrationFee": 150.00,
+      "prizePool": 7000.00
+    },
+    {
+      "domain": "CODING",
+      "name": "Web Minds",
+      "eventType": "MAIN",
+      "eventDate": "2025-04-12T09:00:00",
+      "description": "Web page design competition showcasing creativity and technical skills",
+      "venue": "CSE Lab 3",
+      "coordinatorDetails": [
+        "Arjun Mehta - 9856321478", 
+        "Neha Singh - 9745632185"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1cGx8jn3qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 1,
+      "maxPlayers": 3,
+      "registrationFee": 200.00,
+      "prizePool": 8000.00
+    },
+    {
+      "domain": "CODING",
+      "name": "Code Quest",
+      "eventType": "MAIN",
+      "eventDate": "2025-04-13T10:00:00",
+      "description": "Advanced competitive programming contest open to all years",
+      "venue": "Main Auditorium",
+      "coordinatorDetails": [
+        "Vivek Sharma - 9856743219", 
+        "Ananya Gupta - 9087654321"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1dHy9kn4qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 1,
+      "maxPlayers": 2,
+      "registrationFee": 250.00,
+      "prizePool": 15000.00
+    },
+    {
+      "domain": "ROBOTICS",
+      "name": "Triathlon",
+      "eventType": "ON_SPOT",
+      "eventDate": "2025-04-10T12:00:00",
+      "description": "Three-stage robotics challenge testing versatility and performance",
+      "venue": "Robotics Lab",
+      "coordinatorDetails": [
+        "Rahul Joshi - 9756483215", 
+        "Divya Kumar - 9845123678"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1eIz9lm5qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "registrationFee": 300.00,
+      "prizePool": 10000.00
+    },
+    {
+      "domain": "ROBOTICS",
+      "name": "Chakravyuh",
+      "eventType": "ON_SPOT",
+      "eventDate": "2025-04-11T14:00:00",
+      "description": "Maze solving competition for autonomous robots",
+      "venue": "Mechanical Workshop",
+      "coordinatorDetails": [
+        "Karan Malhotra - 9645123875", 
+        "Meera Patel - 9754321678"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1fJz0lo6qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 3,
+      "maxPlayers": 4,
+      "registrationFee": 350.00,
+      "prizePool": 12000.00
+    },
+    {
+      "domain": "ROBOTICS",
+      "name": "Line Trekker",
+      "eventType": "MAIN",
+      "eventDate": "2025-04-12T11:00:00",
+      "description": "Line following robot competition with added challenges",
+      "venue": "Open Ground",
+      "coordinatorDetails": [
+        "Siddharth Roy - 9865432178", 
+        "Ishita Singh - 9754213698"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1gKa1mp7qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 1,
+      "maxPlayers": 3,
+      "registrationFee": 250.00,
+      "prizePool": 8000.00
+    },
+    {
+      "domain": "ROBOTICS",
+      "name": "Striker Clash",
+      "eventType": "ON_SPOT",
+      "eventDate": "2025-04-13T13:00:00",
+      "description": "Robot soccer tournament with custom built robots",
+      "venue": "Sports Complex",
+      "coordinatorDetails": [
+        "Aman Khanna - 9865742135", 
+        "Riya Sharma - 9854213687"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1hLb2nq8qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 1,
+      "maxPlayers": 2,
+      "registrationFee": 300.00,
+      "prizePool": 9000.00
+    },
+    {
+      "domain": "ROBOTICS",
+      "name": "Throne of Bots - 8kg Robowar",
+      "eventType": "MAIN",
+      "eventDate": "2025-04-14T10:00:00",
+      "description": "8kg weight class robot combat competition",
+      "venue": "Main Arena",
+      "coordinatorDetails": [
+        "Vikram Singh - 9876543215", 
+        "Neha Kapoor - 9845612375"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1iMc3or9qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 4,
+      "maxPlayers": 5,
+      "registrationFee": 500.00,
+      "prizePool": 20000.00
+    },
+    {
+      "domain": "ROBOTICS",
+      "name": "Throne of Bots - 15kg Robowar",
+      "eventType": "MAIN",
+      "eventDate": "2025-04-15T14:00:00",
+      "description": "15kg weight class robot combat competition",
+      "venue": "Main Arena",
+      "coordinatorDetails": [
+        "Aryan Kapoor - 9876512345", 
+        "Tanvi Gupta - 9865431278"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1jNd4ps0qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 4,
+      "maxPlayers": 5,
+      "registrationFee": 600.00,
+      "prizePool": 25000.00
+    },
+    {
+      "domain": "ROBOTICS",
+      "name": "Robo Klassiker",
+      "eventType": "MAIN",
+      "eventDate": "2025-04-16T11:00:00",
+      "description": "Classic robotics challenges including obstacle course and precision tasks",
+      "venue": "Robotics Lab",
+      "coordinatorDetails": [
+        "Raj Malhotra - 9876543219", 
+        "Shreya Sharma - 9856743128"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1kOe5qt1qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "registrationFee": 350.00,
+      "prizePool": 12000.00
+    },
+    {
+      "domain": "GAMING",
+      "name": "BGMI",
+      "eventType": "MAIN",
+      "eventDate": "2025-04-10T16:00:00",
+      "description": "Battlegrounds Mobile India tournament",
+      "venue": "E-Sports Arena",
+      "coordinatorDetails": [
+        "Gaurav Mehta - 9876512348", 
+        "Kritika Singh - 9845671235"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1lPf6ru2qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 4,
+      "maxPlayers": 5,
+      "registrationFee": 400.00,
+      "prizePool": 15000.00
+    },
+    {
+      "domain": "GAMING",
+      "name": "EA FC24",
+      "eventType": "ON_SPOT",
+      "eventDate": "2025-04-11T15:00:00",
+      "description": "EA Sports FC 24 football gaming tournament",
+      "venue": "Gaming Lab",
+      "coordinatorDetails": [
+        "Aditya Verma - 9856741235", 
+        "Ritika Sharma - 9865471235"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1mQg7sv3qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 1,
+      "maxPlayers": 2,
+      "registrationFee": 200.00,
+      "prizePool": 8000.00
+    },
+    {
+      "domain": "GAMING",
+      "name": "Valorant",
+      "eventType": "MAIN",
+      "eventDate": "2025-04-12T17:00:00",
+      "description": "Valorant tactical shooter tournament",
+      "venue": "E-Sports Arena",
+      "coordinatorDetails": [
+        "Rohan Kapoor - 9876453127", 
+        "Ananya Mehta - 9854761235"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1nRh8tw4qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 5,
+      "maxPlayers": 5,
+      "registrationFee": 500.00,
+      "prizePool": 20000.00
+    },
+    {
+      "domain": "GAMING",
+      "name": "E-Football",
+      "eventType": "MAIN",
+      "eventDate": "2025-04-13T15:00:00",
+      "description": "eFootball (formerly PES) tournament",
+      "venue": "Gaming Lab",
+      "coordinatorDetails": [
+        "Kunal Singh - 9865471235", 
+        "Sneha Gupta - 9854761238"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1oSi9ux5qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 1,
+      "maxPlayers": 1,
+      "registrationFee": 150.00,
+      "prizePool": 5000.00
+    },
+    {
+      "domain": "GAMING",
+      "name": "8 Ball Pool",
+      "eventType": "MAIN",
+      "eventDate": "2025-04-14T16:00:00",
+      "description": "Virtual pool game tournament",
+      "venue": "Gaming Lab",
+      "coordinatorDetails": [
+        "Rahul Verma - 9865471238", 
+        "Neha Kapoor - 9854761239"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1pTj0vy6qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 1,
+      "maxPlayers": 1,
+      "registrationFee": 100.00,
+      "prizePool": 3000.00
+    },
+    {
+      "domain": "CIVIL",
+      "name": "Mega-Arch",
+      "eventType": "MAIN",
+      "eventDate": "2025-04-10T10:00:00",
+      "description": "Architectural design and model building competition",
+      "venue": "Civil Engineering Block",
+      "coordinatorDetails": [
+        "Rahul Sharma - 9876543210", 
+        "Priya Verma - 9865471230"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1qUk1wz7qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "registrationFee": 300.00,
+      "prizePool": 10000.00
+    },
+    {
+      "domain": "CIVIL",
+      "name": "CAD-O-Mania",
+      "eventType": "ON_SPOT",
+      "eventDate": "2025-04-11T09:00:00",
+      "description": "CAD modeling competition for civil structures",
+      "venue": "CAD Lab",
+      "coordinatorDetails": [
+        "Vikas Kumar - 9876543211", 
+        "Ananya Singh - 9865471231"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1rVl2xz8qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 1,
+      "maxPlayers": 2,
+      "registrationFee": 200.00,
+      "prizePool": 7000.00
+    },
+    {
+      "domain": "CIVIL",
+      "name": "Setu Bandhan",
+      "eventType": "MAIN",
+      "eventDate": "2025-04-12T11:00:00",
+      "description": "Bridge building competition using limited materials",
+      "venue": "Civil Workshop",
+      "coordinatorDetails": [
+        "Akash Patel - 9876543212", 
+        "Riya Gupta - 9865471232"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1sWm3yz9qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 2,
+      "maxPlayers": 3,
+      "registrationFee": 250.00,
+      "prizePool": 8000.00
+    },
+    {
+      "domain": "CIVIL",
+      "name": "Track-O-Treasure",
+      "eventType": "MAIN",
+      "eventDate": "2025-04-13T10:00:00",
+      "description": "Civil engineering treasure hunt with technical challenges",
+      "venue": "Campus Wide",
+      "coordinatorDetails": [
+        "Nikhil Sharma - 9876543213", 
+        "Sakshi Patel - 9865471233"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1tXn4za0qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 3,
+      "maxPlayers": 4,
+      "registrationFee": 300.00,
+      "prizePool": 10000.00
+    },
+    {
+      "domain": "GENERAL",
+      "name": "Chess",
+      "eventType": "MAIN",
+      "eventDate": "2025-04-10T09:00:00",
+      "description": "Chess tournament with knockout rounds",
+      "venue": "Student Activity Center",
+      "coordinatorDetails": [
+        "Rahul Khanna - 9876543214", 
+        "Neha Singh - 9865471234"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1uYo5zb1qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 1,
+      "maxPlayers": 1,
+      "registrationFee": 100.00,
+      "prizePool": 5000.00
+    },
+    {
+      "domain": "GENERAL",
+      "name": "Darts",
+      "eventType": "ON_SPOT",
+      "eventDate": "2025-04-11T14:00:00",
+      "description": "Precision dart throwing competition",
+      "venue": "Indoor Games Room",
+      "coordinatorDetails": [
+        "Arjun Gupta - 9876543215", 
+        "Priya Malhotra - 9865471235"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1vZp6zc2qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 1,
+      "maxPlayers": 1,
+      "registrationFee": 80.00,
+      "prizePool": 3000.00
+    },
+    {
+      "domain": "GENERAL",
+      "name": "Carrom",
+      "eventType": "ON_SPOT",
+      "eventDate": "2025-04-12T15:00:00",
+      "description": "Carrom tournament with singles and doubles categories",
+      "venue": "Indoor Games Room",
+      "coordinatorDetails": [
+        "Vikas Mehta - 9876543216", 
+        "Shreya Gupta - 9865471236"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1waq7zd3qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 1,
+      "maxPlayers": 2,
+      "registrationFee": 100.00,
+      "prizePool": 4000.00
+    },
+    {
+      "domain": "GENERAL",
+      "name": "Binge Quiz",
+      "eventType": "MAIN",
+      "eventDate": "2025-04-13T16:00:00",
+      "description": "General knowledge and entertainment quiz competition",
+      "venue": "Auditorium",
+      "coordinatorDetails": [
+        "Rohan Kumar - 9876543217", 
+        "Ananya Sharma - 9865471237"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1xbr8ze4qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 2,
+      "maxPlayers": 3,
+      "registrationFee": 150.00,
+      "prizePool": 6000.00
+    },
+    {
+      "domain": "GENERAL",
+      "name": "Table Tennis",
+      "eventType": "ON_SPOT",
+      "eventDate": "2025-04-14T10:00:00",
+      "description": "Table tennis tournament with singles and doubles categories",
+      "venue": "Sports Complex",
+      "coordinatorDetails": [
+        "Amit Singh - 9876543218", 
+        "Pooja Sharma - 9865471238"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1ycs9zf5qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 1,
+      "maxPlayers": 2,
+      "registrationFee": 150.00,
+      "prizePool": 7000.00
+    },
+    {
+      "domain": "ELECTRICAL",
+      "name": "Power-Blitz",
+      "eventType": "ON_SPOT",
+      "eventDate": "2025-04-10T11:00:00",
+      "description": "Electrical circuit design and troubleshooting competition",
+      "venue": "Electrical Lab",
+      "coordinatorDetails": [
+        "Vikram Patel - 9876543219", 
+        "Isha Singh - 9865471239"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/1zdt0zg6qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 2,
+      "maxPlayers": 3,
+      "registrationFee": 200.00,
+      "prizePool": 8000.00
+    },
+    {
+      "domain": "ELECTRICAL",
+      "name": "Electri-Quest",
+      "eventType": "MAIN",
+      "eventDate": "2025-04-11T13:00:00",
+      "description": "Electrical engineering theory and practical knowledge competition",
+      "venue": "Electrical Department",
+      "coordinatorDetails": [
+        "Rajesh Kumar - 9876543220", 
+        "Meera Kapoor - 9865471240"
+      ],
+      "ruleBook": "https://drive.google.com/file/d/20eu1ah7qPmN19mUfF_bVhjCEH7w3Ve_Y/view",
+      "minPlayers": 1,
+      "maxPlayers": 2,
+      "registrationFee": 150.00,
+      "prizePool": 6000.00
+    }
+  ]
+}
