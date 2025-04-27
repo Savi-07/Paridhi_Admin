@@ -43,7 +43,8 @@ class _EventFormScreenState extends State<EventFormScreen> {
     'ROBOTICS',
     'CIVIL',
     'ELECTRICAL',
-    'GENERAL'
+    'GENERAL',
+    'EXCLUSIVE'
   ];
   final List<String> _eventTypes = ['MAIN', 'ON_SPOT'];
 
