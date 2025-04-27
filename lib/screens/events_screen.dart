@@ -26,7 +26,9 @@ class _EventsScreenState extends State<EventsScreen> {
     'ROBOTICS',
     'CIVIL',
     'ELECTRICAL',
-    'GENERAL'
+    'GENERAL',
+    'EXCLUSIVE'
+
   ];
   final List<String> _eventTypes = ['MAIN', 'ON_SPOT'];
 

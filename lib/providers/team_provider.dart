@@ -113,7 +113,7 @@ class TeamProvider with ChangeNotifier {
         'email': email,
         'year': year,
         'designation': designation == Designation.BACKEND_DEVELOPER_AND_APP_DEVELOPER 
-            ? 'Backend Dev & App Dev' 
+            ? 'BACKEND_DEVELOPER_AND_APP_DEVELOPER' 
             : designation.toString().split('.').last,
         'linkedInLink': linkedInLink,
         'facebookLink': facebookLink,
@@ -201,7 +201,7 @@ class TeamProvider with ChangeNotifier {
         'email': email,
         'year': year,
         'designation': designation == Designation.BACKEND_DEVELOPER_AND_APP_DEVELOPER 
-            ? 'Backend Dev & App Dev' 
+            ? 'BACKEND_DEVELOPER_AND_APP_DEVELOPER' 
             : designation.toString().split('.').last,
         'linkedInLink': linkedInLink,
         'facebookLink': facebookLink,

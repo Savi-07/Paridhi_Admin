@@ -90,7 +90,7 @@ class TeamMember {
   String get formattedDesignation {
     // Special case for BACKEND_DEVELOPER_AND_APP_DEVELOPER
     if (designation == Designation.BACKEND_DEVELOPER_AND_APP_DEVELOPER) {
-      return 'Backend Dev & App Dev';
+      return 'BACKEND & APP DEV';
     }
     
     // Default formatting for other designations

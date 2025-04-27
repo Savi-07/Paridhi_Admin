@@ -151,16 +151,18 @@ class _EditTeamMemberScreenState extends State<EditTeamMemberScreen> {
 
                     // cursorColor: Colors.white,
                     controller: _nameController,
-                      decoration: InputDecoration(
+                    decoration: InputDecoration(
                       labelText: 'Name',
                       labelStyle: const TextStyle(color: Colors.white70),
                       border: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
-                        borderSide: BorderSide(color: Colors.white.withOpacity(0.3)),
+                        borderSide:
+                            BorderSide(color: Colors.white.withOpacity(0.3)),
                       ),
                       enabledBorder: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
-                        borderSide: BorderSide(color: Colors.white.withOpacity(0.3)),
+                        borderSide:
+                            BorderSide(color: Colors.white.withOpacity(0.3)),
                       ),
                       focusedBorder: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
@@ -176,22 +178,21 @@ class _EditTeamMemberScreenState extends State<EditTeamMemberScreen> {
                     },
                   ),
                   const SizedBox(height: 16),
-
-
-
                   TextFormField(
                     style: TextStyle(color: colour),
                     controller: _emailController,
-                     decoration: InputDecoration(
+                    decoration: InputDecoration(
                       labelText: 'Email',
                       labelStyle: const TextStyle(color: Colors.white70),
                       border: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
-                        borderSide: BorderSide(color: Colors.white.withOpacity(0.3)),
+                        borderSide:
+                            BorderSide(color: Colors.white.withOpacity(0.3)),
                       ),
                       enabledBorder: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
-                        borderSide: BorderSide(color: Colors.white.withOpacity(0.3)),
+                        borderSide:
+                            BorderSide(color: Colors.white.withOpacity(0.3)),
                       ),
                       focusedBorder: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
@@ -209,22 +210,22 @@ class _EditTeamMemberScreenState extends State<EditTeamMemberScreen> {
                     },
                   ),
                   const SizedBox(height: 16),
-
-
-
                   DropdownButtonFormField<String>(
                     style: TextStyle(color: colour),
                     value: _selectedYear,
-                     decoration: InputDecoration(
+                    dropdownColor: const Color(0xFF232528),
+                    decoration: InputDecoration(
                       labelText: 'Year',
                       labelStyle: const TextStyle(color: Colors.white70),
                       border: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
-                        borderSide: BorderSide(color: Colors.white.withOpacity(0.3)),
+                        borderSide:
+                            BorderSide(color: Colors.white.withOpacity(0.3)),
                       ),
                       enabledBorder: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
-                        borderSide: BorderSide(color: Colors.white.withOpacity(0.3)),
+                        borderSide:
+                            BorderSide(color: Colors.white.withOpacity(0.3)),
                       ),
                       focusedBorder: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
@@ -246,17 +247,20 @@ class _EditTeamMemberScreenState extends State<EditTeamMemberScreen> {
                   const SizedBox(height: 16),
                   DropdownButtonFormField<Designation>(
                     style: TextStyle(color: colour),
+                    dropdownColor: const Color(0xFF232528),
                     value: _selectedDesignation,
-                      decoration: InputDecoration(
+                    decoration: InputDecoration(
                       labelText: 'Designation',
                       labelStyle: const TextStyle(color: Colors.white70),
                       border: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
-                        borderSide: BorderSide(color: Colors.white.withOpacity(0.3)),
+                        borderSide:
+                            BorderSide(color: Colors.white.withOpacity(0.3)),
                       ),
                       enabledBorder: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
-                        borderSide: BorderSide(color: Colors.white.withOpacity(0.3)),
+                        borderSide:
+                            BorderSide(color: Colors.white.withOpacity(0.3)),
                       ),
                       focusedBorder: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
@@ -286,22 +290,21 @@ class _EditTeamMemberScreenState extends State<EditTeamMemberScreen> {
                     },
                   ),
                   const SizedBox(height: 16),
-
-
-
                   TextFormField(
                     style: TextStyle(color: colour),
                     controller: _linkedInController,
-                      decoration: InputDecoration(
+                    decoration: InputDecoration(
                       labelText: 'LinkedIn Link',
                       labelStyle: const TextStyle(color: Colors.white70),
                       border: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
-                        borderSide: BorderSide(color: Colors.white.withOpacity(0.3)),
+                        borderSide:
+                            BorderSide(color: Colors.white.withOpacity(0.3)),
                       ),
                       enabledBorder: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
-                        borderSide: BorderSide(color: Colors.white.withOpacity(0.3)),
+                        borderSide:
+                            BorderSide(color: Colors.white.withOpacity(0.3)),
                       ),
                       focusedBorder: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
@@ -310,23 +313,21 @@ class _EditTeamMemberScreenState extends State<EditTeamMemberScreen> {
                     ),
                   ),
                   const SizedBox(height: 16),
-
-
-
-
                   TextFormField(
                     style: TextStyle(color: colour),
                     controller: _facebookController,
-                      decoration: InputDecoration(
+                    decoration: InputDecoration(
                       labelText: 'Facebook Link',
                       labelStyle: const TextStyle(color: Colors.white70),
                       border: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
-                        borderSide: BorderSide(color: Colors.white.withOpacity(0.3)),
+                        borderSide:
+                            BorderSide(color: Colors.white.withOpacity(0.3)),
                       ),
                       enabledBorder: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
-                        borderSide: BorderSide(color: Colors.white.withOpacity(0.3)),
+                        borderSide:
+                            BorderSide(color: Colors.white.withOpacity(0.3)),
                       ),
                       focusedBorder: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
@@ -338,16 +339,18 @@ class _EditTeamMemberScreenState extends State<EditTeamMemberScreen> {
                   TextFormField(
                     style: TextStyle(color: colour),
                     controller: _instagramController,
-                      decoration: InputDecoration(
+                    decoration: InputDecoration(
                       labelText: 'Instagram Link',
                       labelStyle: const TextStyle(color: Colors.white70),
                       border: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
-                        borderSide: BorderSide(color: Colors.white.withOpacity(0.3)),
+                        borderSide:
+                            BorderSide(color: Colors.white.withOpacity(0.3)),
                       ),
                       enabledBorder: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
-                        borderSide: BorderSide(color: Colors.white.withOpacity(0.3)),
+                        borderSide:
+                            BorderSide(color: Colors.white.withOpacity(0.3)),
                       ),
                       focusedBorder: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
@@ -359,16 +362,18 @@ class _EditTeamMemberScreenState extends State<EditTeamMemberScreen> {
                   TextFormField(
                     style: TextStyle(color: colour),
                     controller: _githubController,
-                      decoration: InputDecoration(
+                    decoration: InputDecoration(
                       labelText: 'GitHub Link',
                       labelStyle: const TextStyle(color: Colors.white70),
                       border: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
-                        borderSide: BorderSide(color: Colors.white.withOpacity(0.3)),
+                        borderSide:
+                            BorderSide(color: Colors.white.withOpacity(0.3)),
                       ),
                       enabledBorder: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
-                        borderSide: BorderSide(color: Colors.white.withOpacity(0.3)),
+                        borderSide:
+                            BorderSide(color: Colors.white.withOpacity(0.3)),
                       ),
                       focusedBorder: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
@@ -380,16 +385,18 @@ class _EditTeamMemberScreenState extends State<EditTeamMemberScreen> {
                   TextFormField(
                     style: TextStyle(color: colour),
                     controller: _imageLinkController,
-                      decoration: InputDecoration(
+                    decoration: InputDecoration(
                       labelText: 'Image Link',
                       labelStyle: const TextStyle(color: Colors.white70),
                       border: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
-                        borderSide: BorderSide(color: Colors.white.withOpacity(0.3)),
+                        borderSide:
+                            BorderSide(color: Colors.white.withOpacity(0.3)),
                       ),
                       enabledBorder: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
-                        borderSide: BorderSide(color: Colors.white.withOpacity(0.3)),
+                        borderSide:
+                            BorderSide(color: Colors.white.withOpacity(0.3)),
                       ),
                       focusedBorder: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8),
