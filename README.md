@@ -76,7 +76,7 @@ Docker:
 For backend (optional)
 ```
 
-### 3. **3. Run the Setup Scripts**
+### 3. **Run the Setup Scripts**
 Automate portal initialization using the main script:
 
 ```sh
