@@ -1,4 +1,4 @@
-# Paridhi Portal 2025 – Admin & Event Management System
+# Paridhi Portal 2025 – Admin & Event Management System 
 
 Welcome to the **Paridhi Portal 2025** repository! This project is a comprehensive, cross-platform event management system designed for the Paridhi technical fest. It provides robust tools for managing users, admins, events, teams, media assets, and more, with a modern Flutter frontend and a flexible backend.
 
